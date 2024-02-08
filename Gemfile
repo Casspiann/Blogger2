@@ -65,3 +65,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+gem "paperclip"
+gem 'rmagick'
+gem 'sassc-rails'
