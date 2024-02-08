@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   resources :articles do
     resources :comments
   end
-
+  resources :tags
 
   # Defines the root path route ("/")
   # root "posts#index"
