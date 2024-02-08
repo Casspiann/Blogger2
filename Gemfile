@@ -68,3 +68,4 @@ end
 gem "paperclip"
 gem 'rmagick'
 gem 'sassc-rails'
+gem 'sorcery'
